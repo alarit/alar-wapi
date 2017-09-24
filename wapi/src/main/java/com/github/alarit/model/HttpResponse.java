@@ -17,7 +17,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package it.alar.wapi.model;
+package com.github.alarit.model;
 
 public class HttpResponse {
 

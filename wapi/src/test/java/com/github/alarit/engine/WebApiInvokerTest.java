@@ -1,4 +1,4 @@
-package it.alar.wapi.engine;
+package com.github.alarit.engine;
 
 import static org.junit.Assert.assertEquals;
 
@@ -7,7 +7,8 @@ import java.io.IOException;
 import org.junit.Before;
 import org.junit.Test;
 
-import it.alar.wapi.model.HttpResponse;
+import com.github.alarit.engine.WebApiInvoker;
+import com.github.alarit.model.HttpResponse;
 
 public class WebApiInvokerTest {
 

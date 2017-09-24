@@ -18,7 +18,7 @@
  */
 
 
-package it.alar.wapi.engine;
+package com.github.alarit.engine;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
@@ -30,7 +30,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import it.alar.wapi.model.HttpResponse;
+import com.github.alarit.model.HttpResponse;
 
 public class WebApiInvoker {
 	public enum ContentType {
